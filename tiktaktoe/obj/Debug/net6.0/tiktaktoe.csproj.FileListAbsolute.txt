@@ -1,0 +1,15 @@
+C:\Users\mnzac\source\repos\tiktaktoe\tiktaktoe\bin\Debug\net6.0\tiktaktoe.exe
+C:\Users\mnzac\source\repos\tiktaktoe\tiktaktoe\bin\Debug\net6.0\tiktaktoe.deps.json
+C:\Users\mnzac\source\repos\tiktaktoe\tiktaktoe\bin\Debug\net6.0\tiktaktoe.runtimeconfig.json
+C:\Users\mnzac\source\repos\tiktaktoe\tiktaktoe\bin\Debug\net6.0\tiktaktoe.dll
+C:\Users\mnzac\source\repos\tiktaktoe\tiktaktoe\bin\Debug\net6.0\tiktaktoe.pdb
+C:\Users\mnzac\source\repos\tiktaktoe\tiktaktoe\obj\Debug\net6.0\tiktaktoe.csproj.AssemblyReference.cache
+C:\Users\mnzac\source\repos\tiktaktoe\tiktaktoe\obj\Debug\net6.0\tiktaktoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnzac\source\repos\tiktaktoe\tiktaktoe\obj\Debug\net6.0\tiktaktoe.AssemblyInfoInputs.cache
+C:\Users\mnzac\source\repos\tiktaktoe\tiktaktoe\obj\Debug\net6.0\tiktaktoe.AssemblyInfo.cs
+C:\Users\mnzac\source\repos\tiktaktoe\tiktaktoe\obj\Debug\net6.0\tiktaktoe.csproj.CoreCompileInputs.cache
+C:\Users\mnzac\source\repos\tiktaktoe\tiktaktoe\obj\Debug\net6.0\tiktaktoe.dll
+C:\Users\mnzac\source\repos\tiktaktoe\tiktaktoe\obj\Debug\net6.0\refint\tiktaktoe.dll
+C:\Users\mnzac\source\repos\tiktaktoe\tiktaktoe\obj\Debug\net6.0\tiktaktoe.pdb
+C:\Users\mnzac\source\repos\tiktaktoe\tiktaktoe\obj\Debug\net6.0\tiktaktoe.genruntimeconfig.cache
+C:\Users\mnzac\source\repos\tiktaktoe\tiktaktoe\obj\Debug\net6.0\ref\tiktaktoe.dll
