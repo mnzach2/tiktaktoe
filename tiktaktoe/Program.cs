@@ -4,6 +4,7 @@ namespace tiktaktoe
 {
     internal class Program
     {
+        //testing
         static string[,] board = {
                 { "1", "2", "3" },
                 { "4", "5", "6" },
